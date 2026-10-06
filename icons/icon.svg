@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><clipPath id="rr"><rect width="512" height="512" rx="112"/></clipPath><g clip-path="url(#rr)"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fd9ff"/><stop offset=".62" stop-color="#d3f2ff"/><stop offset=".62" stop-color="#6cc56a"/><stop offset="1" stop-color="#3f9e48"/></linearGradient></defs>
+       <rect width="512" height="512" fill="url(#g)"/>
+       <g fill="#fff" opacity=".9"><ellipse cx="256" cy="80" rx="60" ry="24"/><ellipse cx="300" cy="66" rx="44" ry="24"/></g>
+       <path d="M0 330 Q256 290 512 330 L512 512 L0 512Z" fill="#5bb75a"/><g transform="translate(25.599999999999994 25.599999999999994) scale(0.9)">
+    <!-- linker toren (blauw) -->
+    <g transform="translate(-34 0)" stroke="#1f2a44" stroke-width="12" stroke-linejoin="round">
+      <path d="M175 128 L175 70 L222 98 Z" fill="#4cc3ff"/>
+      <line x1="175" y1="160" x2="175" y2="66"/>
+      <path d="M90 170 h34 v-26 h30 v26 h28 v-26 h30 v26 h34 v40 h-156z" fill="#1d5fd1"/>
+      <rect x="104" y="208" width="128" height="214" fill="#4c8dff"/>
+      <path d="M140 422 v-60 a28 28 0 0 1 56 0 v60z" fill="#1f2a44"/>
+      <path d="M152 300 v-30 a16 16 0 0 1 32 0 v30z" fill="#bfe9ff"/>
+    </g>
+    <!-- rechter toren (rood) -->
+    <g transform="translate(34 0)" stroke="#1f2a44" stroke-width="12" stroke-linejoin="round">
+      <path d="M337 128 L337 70 L290 98 Z" fill="#ff9f1c"/>
+      <line x1="337" y1="160" x2="337" y2="66"/>
+      <path d="M266 170 h34 v-26 h30 v26 h28 v-26 h30 v26 h34 v40 h-156z" fill="#c21f57"/>
+      <rect x="280" y="208" width="128" height="214" fill="#ff5c8a"/>
+      <path d="M316 422 v-60 a28 28 0 0 1 56 0 v60z" fill="#1f2a44"/>
+      <path d="M328 300 v-30 a16 16 0 0 1 32 0 v30z" fill="#ffe0ea"/>
+    </g>
+    <!-- botsing in het midden -->
+    <path d="M256 238 l14 30 32 -10 -16 30 28 18 -33 6 4 33 -29 -18 -29 18 4 -33 -33 -6 28 -18 -16 -30 32 10z" fill="#ffd23f" stroke="#1f2a44" stroke-width="9" stroke-linejoin="round"/></g></g></svg>
